@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning qmk
 - 💞️ I’m looking to collaborate on optimized keyboard layouts
 - 📫 Reach me on Discord, IG, FB, or X @melemanuhulu
+- https://melemanuhulu.com
 
 <!---
 melemanuhulu/melemanuhulu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
